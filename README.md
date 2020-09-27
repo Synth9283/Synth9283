@@ -9,5 +9,8 @@
 - ⚙️ My favorite language is C
 - ⌨️ I like to program a large variety of things
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synth9283&layout=compact" alt="Synth9283" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Synth9283&show_icons=true" alt="Synth9283" /></p>
+
 [website]: https://pden.net
 [twitter]: https://twitter.com/Synth9283
