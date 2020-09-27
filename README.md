@@ -9,8 +9,5 @@
 - ⚙️ My favorite language is C
 - ⌨️ I like to program a large variety of things
 
-<br/>
-<br/>
-
 [website]: https://pden.net
 [twitter]: https://twitter.com/Synth9283
