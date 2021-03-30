@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Synth</h1>
-<h3 align="center">I am a hobbiest programmer!</h3>
+<h3 align="center">I am a hobbyist programmer!</h3>
 
 [![Discord Server](https://img.shields.io/website?label=pden.net&style=for-the-badge&url=https%3A%2F%2Fpden.net)](https://pden.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Synth9283?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSynth9283&screen_name=Synth9283)
