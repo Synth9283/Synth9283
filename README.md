@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Synth9283" alt="Synth9283" /></a> </p>
 
-- 💻 I’m a owner of a friendly programmer's community discord server: [Programmer's Den][website]!
+- 💻 I’m an owner of a friendly programmer's community discord server: [Programmer's Den][website]!
 - ⚙️ My favorite language is C
 - ⌨️ I like to program a large variety of things
 
